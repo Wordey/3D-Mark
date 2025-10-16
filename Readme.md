@@ -29,7 +29,7 @@ for windows you need manualy install gcc
 
 Okey, lets compiling the 3D Mark
 ```bash
-    git clone https://www.github.com/WordeyGoose/3DMark.git
-    cd 3DMark
+    git clone https://www.github.com/Wordey/3D-Mark.git
+    cd 3D-Mark
     make
 ```
