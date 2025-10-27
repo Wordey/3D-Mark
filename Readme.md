@@ -27,7 +27,6 @@ if you like yay
 
 for windows you need manualy install gcc
 
-WARNING: Install the gradle but i use the for compiling java project
 
 Okey, lets compiling the 3D Mark
 ```bash
