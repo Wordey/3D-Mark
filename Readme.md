@@ -25,7 +25,7 @@ or
 ```
 if you like yay
 
-for windows you need manualy install gcc
+for windows you need manualy install java
 
 
 Okey, lets compiling the 3D Mark
