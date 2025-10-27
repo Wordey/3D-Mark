@@ -1,7 +1,7 @@
 # 3D Mark
 the open-source program for 3D Modeling for weak laptops and pc's
 
-![Icon](docs/Icon.png)
+![Icon](doc/Icon.png)
 
 # What is 3D Mark?
 the 3D Mark project written by Wordey(Egor) Cherniavskij from scratch in October 2025 for now the 3D Mark in aplha 0.0.1 the fisrt alpha version
