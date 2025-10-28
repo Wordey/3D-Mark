@@ -15,7 +15,7 @@ import static org.lwjgl.opengl.GL11.*;
 import static org.lwjgl.system.MemoryStack.*;
 import static org.lwjgl.system.MemoryUtil.*;
 
-public class win extends JFrame{
+public class window extends JFrame{
     public long window;
     public float posX = 0.0f;
     public float posY = 0.0f;
@@ -84,6 +84,6 @@ public class win extends JFrame{
     }
 
     public static void main(String[] args) {
-        new win().run();
+        new window().run();
     }
 }
